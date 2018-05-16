@@ -1,0 +1,79 @@
+body{
+    background-color: #F9EED8;
+    
+}
+
+.navbar-nav{
+    padding: 10px;
+    background-color: #86B04E;
+    color: #5C4719;
+    width: 100%;
+}
+
+.nav-item{
+    list-style-type: none;
+}
+
+.nav-link{
+    padding: 10px;
+    color: #46540D;
+}
+
+#search {
+    float: right;
+    border: none;
+}
+
+.mission{
+    font-size: 22px;
+    color: #5C4719;
+}
+
+.season{
+    font-size: 22px;
+    color: #5C4719;
+}
+
+.yolo{
+    font-family: 'Allura', cursive;
+    font-size: 40px;
+    margin: auto;
+    text-align: center;
+    color: #A99C79;
+}
+
+.content{
+    margin: 0vw 20% 5vw;
+}
+
+.images{
+    margin: 5vw 20%;
+}
+
+button{
+    display: block;
+    background-color: #38602E;
+    color: #FAFFF7;
+    border-radius: 19px;
+    font-size: 16px;
+    padding: 4px 15px;
+    float: right;
+    border: none;
+}
+
+span{
+    text-align: center;
+}
+
+.thumbnail{
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
+}
+
+.caption{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #5C4719;
+}
